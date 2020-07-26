@@ -7,6 +7,6 @@
   <text font-size="100" x="10" y="150">
     <tspan fill="red">Brain-Cancer MRI Images Classification:</tspan>
     <tspan fill="green"> By Resnet 50</tspan>
-    <tspan fill="green"> (2020)</tspan>
+    <tspan fill="blue">(2020)</tspan>
   </text>
 </svg>
