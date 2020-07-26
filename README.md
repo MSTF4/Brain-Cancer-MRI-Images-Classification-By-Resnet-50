@@ -2,6 +2,7 @@
 
 ## Brain-Cancer-MRI-Images-Classification-By-Resnet-50 Notebooks and Code is available
 
-### Brain-Cancer-MRI-Images-Classification-By-Resnet-50 Data is available in: https://figshare.com/articles/brain_tumor_dataset/1512427
+### Brain-Cancer-MRI-Images-Classification-By-Resnet-50 Data is available in:
+#### https://figshare.com/articles/brain_tumor_dataset/1512427
 
 ###### <sub><sup>Powered by MSTF4 colored text in Markdown</sup></sub>
